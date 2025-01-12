@@ -70,5 +70,6 @@ def lambda_handler(event, context):
 - Verify the cron expression is set for the correct UTC time.
 - The rule can be edited or disabled at any time in the **EventBridge Console**.
 
+![image](https://github.com/user-attachments/assets/2f80ea8c-ae4b-4226-a2fc-299635b53e0d)
 
 
