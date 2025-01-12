@@ -1,0 +1,1 @@
+# EventBridge-Rule-to-Stop-EC2-Instance
